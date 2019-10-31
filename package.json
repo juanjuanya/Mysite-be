@@ -7,7 +7,7 @@
     "etag": "^1.8.1",
     "express": "^4.16.4",
     "html-table-to-json": "^0.4.0",
-    "mongoose": "^5.4.17",
+    "mongoose": "^5.7.5",
     "multer": "^1.4.1",
     "prop-types": "^15.6.2",
     "socket.io": "^2.2.0",
